@@ -20,4 +20,4 @@ app.listen(5000, () => {
   console.log("Server is running on port 5000");
 });
 
-module.exports = serverless(app);
+export default module.exports = app;
