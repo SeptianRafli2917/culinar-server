@@ -12,6 +12,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@vercel/node": "^5.2.1",
     "accepts": "^2.0.0",
     "body-parser": "^2.2.0",
     "bytes": "^3.1.2",
@@ -80,6 +81,7 @@
     "toidentifier": "^1.0.1",
     "tsx": "^4.19.4",
     "type-is": "^2.0.1",
+    "typescript": "^5.8.3",
     "unpipe": "^1.0.0",
     "vary": "^1.1.2",
     "wrappy": "^1.0.2"
